@@ -1,0 +1,11 @@
+streamlit>=1.30
+torch
+transformers>=4.40
+accelerate
+sentencepiece
+protobuf
+sentence-transformers
+scikit-learn
+pandas
+numpy
+joblib
